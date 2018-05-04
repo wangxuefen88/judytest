@@ -1,0 +1,14 @@
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\bin\Debug\BLL.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\bin\Debug\Model.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\bin\Debug\UnityEngine.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\bin\Debug\DAL.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\bin\Debug\BLL.pdb
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\bin\Debug\Model.pdb
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\bin\Debug\DAL.pdb
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

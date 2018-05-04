@@ -1,0 +1,7 @@
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\DAL\bin\Debug\DAL.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\DAL\bin\Debug\DAL.pdb
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\DAL\bin\Debug\Model.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\DAL\bin\Debug\Model.pdb
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\DAL\obj\Debug\DAL.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\DAL\obj\Debug\DAL.pdb

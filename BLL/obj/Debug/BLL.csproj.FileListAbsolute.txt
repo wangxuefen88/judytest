@@ -1,0 +1,9 @@
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\BLL\bin\Debug\BLL.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\BLL\bin\Debug\BLL.pdb
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\BLL\bin\Debug\DAL.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\BLL\bin\Debug\Model.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\BLL\bin\Debug\DAL.pdb
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\BLL\bin\Debug\Model.pdb
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\BLL\obj\Debug\BLL.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,9 @@
+E:\项目合作\项目\微信全部\chat\chat\bin\Debug\chat.exe.config
+E:\项目合作\项目\微信全部\chat\chat\bin\Debug\chat.exe
+E:\项目合作\项目\微信全部\chat\chat\bin\Debug\chat.pdb
+E:\项目合作\项目\微信全部\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+E:\项目合作\项目\微信全部\chat\chat\obj\Debug\chat.exe
+E:\项目合作\项目\微信全部\chat\chat\obj\Debug\chat.pdb
+E:\项目合作\项目\微信全部\chat\chat\bin\Debug\Newtonsoft.Json.dll
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+E:\项目合作\项目\微信-王雪芬-2017-1-5\chat\chat\bin\Debug\chat.exe.config
